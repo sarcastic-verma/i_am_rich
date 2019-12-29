@@ -1,16 +1,12 @@
-# i_am_rich
+# i_am_rich:batman edition
 
 A new Flutter application, for all the rich brats!!!!!!
 
-## Getting Started
+this app is a token to show your friends that you are rich!!</br>
+it does nothing except showing the logo of batman.
 
-This project is a starting point for a Flutter application.
+# Using Instructions
+ - Install flutter and editor of your choice(android studio), after this configure your emulator or use your own android device in developer mode.</br>
+ - Run the main.dart file in lib to see how the app looks.
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
